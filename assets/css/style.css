@@ -51,3 +51,9 @@ nav{
       opacity: 1;
     }
   }
+
+@media(max-width:301px){
+  .slider > .logos > .i{
+    width: 10%;
+  }
+}
